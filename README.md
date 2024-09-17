@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://tangerine-stardust-55ed7b.netlify.app/](https://tangerine-stardust-55ed7b.netlify.app/)
+- 👨‍💻 All of my projects are available at (https://anuvrintha.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@anuvrintha](https://medium.com/@anuvrintha)
 
